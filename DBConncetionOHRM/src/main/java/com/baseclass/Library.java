@@ -43,6 +43,7 @@ public class Library {
 		
 		}catch(WebDriverException e) {
 		System.out.println("browser could not be launched");
+		
 		}
 	}
 
