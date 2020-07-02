@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5829" started-at="2020-06-26T18:47:29Z" finished-at="2020-06-26T18:47:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5829" started-at="2020-06-26T18:47:29Z" finished-at="2020-06-26T18:47:35Z">
+      <class name="Request_Methods.Serialization_And_Deserialization">
+        <test-method status="PASS" signature="postRequest()[pri:0, instance:Request_Methods.Serialization_And_Deserialization@18be83e4]" name="postRequest" duration-ms="5788" started-at="2020-06-26T14:47:29Z" finished-at="2020-06-26T14:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postRequest -->
+      </class> <!-- Request_Methods.Serialization_And_Deserialization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
